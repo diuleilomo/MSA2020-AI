@@ -18,4 +18,4 @@ Project outline:
 To run this notebook:
 1. Make sure to install:
     python, numpy, pandas, sklearn, matplotlib
-2. Put the datafile ('titanic.csv) and run it under the same directory
+2. Put the datafile (titanic.csv) and run it under the same directory
